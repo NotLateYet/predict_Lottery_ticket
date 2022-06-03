@@ -1,0 +1,13 @@
+Flask
+tensorflow-cpu
+tensorflow-addons
+requests
+beautifulsoup4
+pandas
+numpy==1.20
+lxml
+gunicorn
+gevent
+loguru
+grpcio
+protobuf==3.19.4
